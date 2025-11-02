@@ -78,7 +78,7 @@ Node* reverseList(Node* head) {
 1. Clone the repo:
 
    ```
-   git clone https://github.com/your-username/DSA-in-CPP.git
+   git clone https://github.com/ErMapsh/DSA-in-CPP.git
    cd DSA-in-CPP
    ```
 
